@@ -21,8 +21,6 @@ https://testflight.apple.com/join/qIUF1ejw
 
 我们建议的方式是使用本项目的Issues功能，请点击链接 https://github.com/tinyfool/OurEnglishReader/issues 创建新的Issuse或者查看其他用户建立的Issues，也可以给评论其他用户的Issues。
 
-我们的测试交流群二维码如下：
-
-![WechatIMG3](https://user-images.githubusercontent.com/228910/69853205-28c1d080-12c1-11ea-8c8b-75ea7040e7e2.jpeg)
+如果想加入我们的的测试交流微信群，请email至tinyfool@gmail.com，凭Testflight App截图作为凭证申请入群。
 
 请注意，本群不允许闲聊，只允许讨论关于测试的问题，否则会直接踢出。
