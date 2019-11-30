@@ -5,8 +5,7 @@
 App Store下载地址： 
 https://apps.apple.com/cn/app/%E8%8B%B1%E8%AF%AD%E8%BD%BB%E6%9D%BE%E8%AF%BB/id1471605122
 
-加入testflight测试组
-https://testflight.apple.com/join/qIUF1ejw
+加入testflight测试组，请email至tinyfool@gmail.com，了解加入方法。（注意，iOS版本只支持iOS13以上操作系统）
 
 ## 加入测试的好处
 
@@ -20,7 +19,3 @@ https://testflight.apple.com/join/qIUF1ejw
 ## 如何提交新需求和Bug
 
 我们建议的方式是使用本项目的Issues功能，请点击链接 https://github.com/tinyfool/OurEnglishReader/issues 创建新的Issuse或者查看其他用户建立的Issues，也可以给评论其他用户的Issues。
-
-如果想加入我们的的测试交流微信群，请email至tinyfool@gmail.com，凭Testflight App截图作为凭证申请入群。
-
-请注意，本群不允许闲聊，只允许讨论关于测试的问题，否则会直接踢出。
